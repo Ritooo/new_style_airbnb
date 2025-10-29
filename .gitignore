@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+
+# Miscellaneous
+.DS_Store
+*.log
